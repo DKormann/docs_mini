@@ -1,0 +1,6 @@
+{
+  "files.exclude": {
+    "docs_mini.egg-info": true,
+    "**/__pycache__": true,
+  }
+}

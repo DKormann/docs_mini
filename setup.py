@@ -16,6 +16,8 @@ setup(name='docs_mini',
       ],
       install_requires=[
         "flask",
+        "pytesseract",
+        "pymupdf",
       ],
       python_requires='>=3.8',
       extras_require={},
